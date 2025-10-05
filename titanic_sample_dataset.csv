@@ -1,0 +1,11 @@
+age,fare,survived,sex
+22.0,7.25,0,male
+38.0,71.28,1,female
+26.0,7.92,1,female
+35.0,53.1,1,female
+28.0,8.05,0,male
+,8.46,0,male
+54.0,51.86,0,male
+2.0,21.07,1,male
+27.0,11.13,1,female
+14.0,30.07,0,female
